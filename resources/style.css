@@ -184,7 +184,7 @@ p.subline{
 	position:absolute;
 	width:22px;
 	height:40px;
-	background:transparent url(../images/nav.png) no-repeat top left;
+	background:transparent url(../resources/nav.png) no-repeat top left;
 	top:50%;
 	left:5px;
 	margin-top:-20px;
@@ -204,7 +204,7 @@ p.subline{
 	background-position:bottom right;
 }
 .full-view-exit{
-	background:#222 url(../images/cross.png) no-repeat 10px 50%;
+	background:#222 url(../resources/cross.png) no-repeat 10px 50%;
 	position:absolute;
 	top:5px;
 	right:0px;
@@ -233,7 +233,7 @@ p.subline{
 	float:left;
 	width:22px;
 	height:40px;
-	background:transparent url(../images/nav.png) no-repeat bottom left;
+	background:transparent url(../resources/nav.png) no-repeat bottom left;
 	cursor:pointer;
 	text-indent:-9000px;
 }
@@ -249,7 +249,7 @@ p.subline{
 	color:#fff;
 }
 .intro-loading{
-	background: transparent url(../images/loading.gif) no-repeat center center;
+	background: transparent url(../resources/loading.gif) no-repeat center center;
 	opacity:0.6;
 }
 .loading-small{
@@ -258,7 +258,7 @@ p.subline{
 	right:20px;
 	width:16px;
 	height:16px;
-	background: transparent url(../images/loading-small.gif) no-repeat center center;
+	background: transparent url(../resources/loading-small.gif) no-repeat center center;
 	display:none;
 }
 /* Footer Style */
