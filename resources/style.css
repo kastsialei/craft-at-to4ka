@@ -143,7 +143,7 @@ p.subline{
 }
 .project-descr-full{
 	background:#fff;
-	height:186px;
+	height:286px;
 	padding:0;
 	position:fixed;
 	top:50%;
@@ -157,7 +157,7 @@ p.subline{
 }
 .project-descr-full-wrapper{
 	margin:20px;
-	height:146px;
+	height:246px;
 	overflow:hidden;
 }
 .project-descr-full-content p{
